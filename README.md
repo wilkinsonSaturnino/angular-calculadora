@@ -1,4 +1,4 @@
 # angular-calculadora
 Projeto para estudo e consulta.
 
-Calculadora simples.
+Calculadora simples com Bootstrap.
